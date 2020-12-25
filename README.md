@@ -1,5 +1,5 @@
 # SEP11 Freedom Project
-by Ivan Xiao
+by Ivan
 
 ## Context
 Engineering
